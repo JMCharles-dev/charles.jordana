@@ -18,7 +18,12 @@ Les axes analysés :
 Lien vers le détail technique :
 Requêtes SQL  [].
 
+## Structure des données
+Le jeu de données Olist est composé de 9 tables, l'analyse n'a nécessité que 6 d'entre elles. La table centrale Orders relie les commandes aux tables clients, paiements et articles. Chaque commande est associée à un ou plusieurs articles, eux-mêmes rattachés à un produit. Le client de chaque commande est localisé via son État.
+
+<img width="786" height="353" alt="image" src="https://github.com/user-attachments/assets/eeb15fe7-830c-4cd0-865b-2a5bac6e3051" />
+
+Les données permettent d'exploiter plusieurs dimensions : le temps (dates de commande), la géographie (État du client), le produit (catégorie), et le client, permettant de croiser le chiffre d'affaires selon plusieurs axes.
 
 
-<img width="908" height="493" alt="image" src="https://github.com/user-attachments/assets/a4284259-ac7c-4f20-9afd-47102304931e" />
 
