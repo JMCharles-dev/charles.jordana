@@ -54,17 +54,23 @@ Cette croissance est due aux volume de commandes de 750 à 7k/mois et non au pan
 
 ### 2. Répartition du CA par catégorie
 
+<img width="1055" height="621" alt="image" src="https://github.com/user-attachments/assets/c7b0c7f6-c2e0-43b3-9307-fcc48c52e063" />
+
+- Le top 3 (health_beauty, watches_gifts, bed_bath_table) dépasse 1M R$ chacune.
+- Environ 17 catégories sur 73 génèrent 80% du CA : une base diversifiée, avec peu de risque de dépendance à un seul produit.
+
+
 <img width="1005" height="728" alt="image" src="https://github.com/user-attachments/assets/96306578-a8cf-451b-9cbb-74b5c13524e1" />
 
+- Jusqu'à fin 2017, les catégories croissent ensemble.
+- En 2018, divergence : health_beauty et watches_gifts continuent de croître, tandis que computers_accessories et sports_leisure déclinent.
+- Prioriser les catégories montantes(health_beauty, watches) et investiguer le décroissement de computers et sports_leisure pour en comprendre la cause.
 
-Le top 3 (santé/beauté, montres/cadeaux, literie/bain) dépasse [1 M R$] chacune.
-Environ [17 catégories sur 73] concentrent 80% du CA → base diversifiée, peu de risque de dépendance.
-Certaines catégories atteignent le CA par le volume, d'autres par la valeur (ex : informatique, panier >1000 R$ mais peu de ventes → CA plus volatil).
 
 ### 3. Répartition géographique du CA
 
-[insérer le graphe régions]
+<img width="632" height="730" alt="image" src="https://github.com/user-attachments/assets/db2d8831-6589-4cab-bf91-0a95dd67951d" />
 
-São Paulo concentre [~40%] du CA, mais rapporté à la population, SP/RJ/DF sont au même niveau → domination démographique, pas anormale.
-Les États du Nordeste (BA, CE, PA) : forte population, faible CA/habitant → potentiel inexploité.
-Les catégories consommées sont [identiques] entre régions riches et Nordeste → le levier est la pénétration, pas l'offre.
+- São Paulo concentre environ 40% du CA. Rapporté à la population, SP, RJ et DF se situent au même niveau : la domination de São Paulo s'explique par son poids démographique et n'est donc pas une fragilité anormale.
+- Les États de BA, CE et PA ont une forte population mais un CA par habitant faible comparé à SP/RJ/DF : ils représentent potentiellement une part de marché sous-exploitée.
+- Les catégories consommées sont quasi identiques entre les régions performantes (SP/RJ/DF) et celles à potentiel (BA/CE/PA). Le levier de croissance se situe donc au niveau de la pénétration du marché, sans nécessité de modifier l'offre.
