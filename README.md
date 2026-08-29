@@ -49,8 +49,8 @@ Enjeu principal : la croissance historique venant du volume de commandes, les le
 
 <img width="1051" height="731" alt="image" src="https://github.com/user-attachments/assets/527dc507-b99a-4e0e-bb96-8ec65c0d0796" />
 
-Le CA est passé de 112k R$ en début 2017 à environ 650k R$ fin 2017 avec un pic isolé à 988k R$ en novembre 2017, soit une forte croissance sur l'année, avant de se stabiliser autour de 826-978k R$/mois en 2018.
-Cette croissance est due aux volume de commandes de 750 à 7k/mois et non au panier moyen, resté stable autour de 130 R$. La stagnation du panier moyen est un levier économique sous exploitée.
+- Le CA est passé de 112k R$ en début 2017 à environ 650k R$ fin 2017 avec un pic isolé à 988k R$ en novembre 2017, soit une forte croissance sur l'année, avant de se stabiliser autour de 826-978k R$/mois en 2018.
+- Cette croissance est due aux volume de commandes de 750 à 7k/mois et non au panier moyen, resté stable autour de 130 R$. La stagnation du panier moyen est un levier économique sous exploitée.
 
 ### 2. Répartition du CA par catégorie
 
@@ -72,6 +72,7 @@ Cette croissance est due aux volume de commandes de 750 à 7k/mois et non au pan
 <img width="1050" height="732" alt="image" src="https://github.com/user-attachments/assets/5ee1bcfe-275b-4e55-9934-2897220b3212" />
 
 
-- São Paulo concentre environ 40% du CA. Rapporté à la population, SP, RJ et DF se situent au même niveau : la domination de São Paulo s'explique par son poids démographique et n'est donc pas une fragilité anormale.
-- Les États de BA, CE et PA ont une forte population mais un CA par habitant faible comparé à SP/RJ/DF : ils représentent potentiellement une part de marché sous-exploitée.
+- São Paulo concentre environ 40% du CA. Rapporté à la population, São Paulo, Rio de Janeiro et Distrito Federal (SP/RJ/DF) se situent au même niveau : la domination de São Paulo s'explique par son poids démographique et n'est donc pas une fragilité anormale.
+- Les États de Bahia, Ceará et Pará (BA/CE/PA) ont une forte population mais un CA par habitant faible comparé à SP/RJ/DF : ils représentent potentiellement une part de marché sous-exploitée.
 - Les catégories consommées sont quasi identiques entre les régions performantes (SP/RJ/DF) et celles à potentiel (BA/CE/PA). Le levier de croissance se situe donc au niveau de la pénétration du marché, sans nécessité de modifier l'offre.
+- La répartition du CA entre régions reste stable sur toute la période avec une croissance géographiquement homogène ainsi aucune région ne se démarque. Cela suggère qu'aucun levier régional ciblé n'a encore été activé, laissant une marge d'action, notamment vers les États sous-exploités de Bahia, Ceará et Pará.
