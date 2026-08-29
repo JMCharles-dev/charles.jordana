@@ -36,10 +36,10 @@ Géographiquement, le CA est concentré sur São Paulo, Rio de Janeiro et le Dis
 
 Enjeu principal : la croissance historique venant du volume de commandes, les leviers à activer sont l'acquisition de nouveaux clients notamment dans les régions à fort potentiel comme Bahia, Ceará et Pará (BA, CE, PA).
 
-<img width="1189" height="849" alt="image" src="https://github.com/user-attachments/assets/7042b2dc-87d5-4122-bed1-779cf4c348ad" />
+<img width="1194" height="861" alt="image" src="https://github.com/user-attachments/assets/652a07c0-c8ee-4821-8e18-18fd535dce4f" />
 
 
-[Voir le dashboard interactif sur Tableau Public](https://public.tableau.com/views/AnalysedesventesOlist/AnalysedesventesOlist?:language=fr-FR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+[Voir le dashboard interactif sur Tableau Public](https://public.tableau.com/views/AnalysedesventesOlist/AnalysedesventesOlist?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
