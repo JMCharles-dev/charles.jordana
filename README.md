@@ -47,14 +47,15 @@ Enjeu principal : la croissance historique venant du volume de commandes, les le
 
 ### 1. Tendance du chiffre d'affaires dans le temps
 
-[insérer la courbe CA mensuel]
+<img width="1051" height="731" alt="image" src="https://github.com/user-attachments/assets/527dc507-b99a-4e0e-bb96-8ec65c0d0796" />
 
 Le CA est passé de 112k R$ en début 2017 à environ 650k R$ fin 2017 avec un pic isolé à 988k R$ en novembre 2017, soit une forte croissance sur l'année, avant de se stabiliser autour de 826-978k R$/mois en 2018.
 Cette croissance est due aux volume de commandes de 750 à 7k/mois et non au panier moyen, resté stable autour de 130 R$. La stagnation du panier moyen est un levier économique sous exploitée.
 
 ### 2. Répartition du CA par catégorie
 
-[insérer le graphe catégories]
+<img width="1005" height="728" alt="image" src="https://github.com/user-attachments/assets/96306578-a8cf-451b-9cbb-74b5c13524e1" />
+
 
 Le top 3 (santé/beauté, montres/cadeaux, literie/bain) dépasse [1 M R$] chacune.
 Environ [17 catégories sur 73] concentrent 80% du CA → base diversifiée, peu de risque de dépendance.
