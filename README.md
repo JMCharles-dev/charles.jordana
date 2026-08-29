@@ -17,3 +17,8 @@ Les axes analysés :
 
 Lien vers le détail technique :
 Requêtes SQL  [].
+
+
+
+<img width="908" height="493" alt="image" src="https://github.com/user-attachments/assets/a4284259-ac7c-4f20-9afd-47102304931e" />
+
