@@ -39,6 +39,6 @@ Enjeu principal : la croissance historique venant du volume de commandes, les le
 <img width="1189" height="849" alt="image" src="https://github.com/user-attachments/assets/7042b2dc-87d5-4122-bed1-779cf4c348ad" />
 
 
-[https://public.tableau.com/views/AnalysedesventesOlist/AnalysedesventesOlist?:language=fr-FR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link]
+[Voir le dashboard interactif sur Tableau Public](https://public.tableau.com/views/AnalysedesventesOlist/AnalysedesventesOlist?:language=fr-FR&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 
