@@ -54,7 +54,7 @@ Cette croissance est due aux volume de commandes de 750 à 7k/mois et non au pan
 
 ### 2. Répartition du CA par catégorie
 
-<img width="1055" height="621" alt="image" src="https://github.com/user-attachments/assets/c7b0c7f6-c2e0-43b3-9307-fcc48c52e063" />
+<img width="1052" height="627" alt="image" src="https://github.com/user-attachments/assets/72af06c4-ad3f-4e86-a37c-2605697dd768" />
 
 - Le top 3 (health_beauty, watches_gifts, bed_bath_table) dépasse 1M R$ chacune.
 - Environ 17 catégories sur 73 génèrent 80% du CA : une base diversifiée, avec peu de risque de dépendance à un seul produit.
@@ -69,7 +69,8 @@ Cette croissance est due aux volume de commandes de 750 à 7k/mois et non au pan
 
 ### 3. Répartition géographique du CA
 
-<img width="632" height="730" alt="image" src="https://github.com/user-attachments/assets/db2d8831-6589-4cab-bf91-0a95dd67951d" />
+<img width="1050" height="732" alt="image" src="https://github.com/user-attachments/assets/5ee1bcfe-275b-4e55-9934-2897220b3212" />
+
 
 - São Paulo concentre environ 40% du CA. Rapporté à la population, SP, RJ et DF se situent au même niveau : la domination de São Paulo s'explique par son poids démographique et n'est donc pas une fragilité anormale.
 - Les États de BA, CE et PA ont une forte population mais un CA par habitant faible comparé à SP/RJ/DF : ils représentent potentiellement une part de marché sous-exploitée.
