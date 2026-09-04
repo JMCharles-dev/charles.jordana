@@ -1,5 +1,5 @@
 # charles.jordana
-Analyse des ventes Olist
+Analyse de la performance commerciale d'Olist
 
 ## Contexte & vue d'ensemble
 
