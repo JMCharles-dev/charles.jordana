@@ -101,4 +101,4 @@ Enjeu principal : la croissance historique venant du volume de commandes, les le
 * Environ 180k R$ de CA sans catégorie identifiée (traduction manquante)
 * Lien performance/richesse régionale : hypothèse à confirmer avec le PIB/habitant
   
-Un audit complet de la qualité des données (complétude, valeurs manquantes, décisions) est disponible [ici](.
+Un audit complet de la qualité des données (complétude, valeurs manquantes, décisions) est disponible [ici](https://github.com/JMCharles-dev/charles.jordana/blob/main/Audit).
