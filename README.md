@@ -3,9 +3,9 @@ Analyse des ventes Olist
 
 ## Contexte & vue d'ensemble
 
-Olist est une marketplace brésilienne qui met en relation des vendeurs et des clients à travers le brésil. Le jeu de données étudié, publié par Olist sur Kaggle, rassemble environ 100 000 commandes effectuées entre mi-2016 et mi-2018, réparties sur 9 tables. 
+Olist est une marketplace brésilienne qui met en relation des vendeurs et des clients à travers le brésil. Le jeu de données étudié, publié par Olist sur [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), rassemble environ 100 000 commandes effectuées entre fin-2016 et mi-2018, réparties sur 9 tables. 
 Ces données, anonymisées, permettent de suivre le cycle de vie d'une commande, du paiement à la livraison et à l'évaluation client.
-Cependant ce projet se concentre sur l'exploration des leviers de croissance possible du Chiffre d'Affaire afin d'ajuster les décisions commerciales.
+Ce projet se concentre spécifiquement sur l'exploration des leviers de croissance possible du Chiffre d'Affaire afin d'ajuster les décisions commerciales.
 
 Décision : Sur quelles catégories de produits et quelles régions concentrer les efforts pour que le chiffre d'affaires continue à croître.
 
@@ -84,6 +84,6 @@ Enjeu principal : la croissance historique venant du volume de commandes, les le
 | Priorité | Recommandation | Équipe | Justification | Impact attendu | Métrique à suivre |
 |----------|----------------|--------|---------------|----------------|-------------------|
 | P1 | Cibler l'acquisition dans les États sous-exploités (Bahia, Ceará, Pará) | Commerciale / Marketing | Forte population, faible CA/habitant | Rapprocher leur CA/habitant de celui de SP/RJ/DF | CA par habitant |
-| P2 | Soutenir les catégories en croissance (health_beauty, watches_gifts) | Commerciale / Achats | Trajectoire ascendante en 2018 | Accélérer le CA sur ces catégories | CA mensuel par catégorie |
+| P2 | Soutenir les catégories en croissance (health_beauty, watches_gifts) | Commerciale / Achats | Trajectoire ascendante en 2018 | Maintenir/accélérer leur trajectoire de croissance | CA mensuel par catégorie |
 | P3 | Investiguer le recul de computers et sports_leisure | Data / Achats | Déclin en 2018, cause inconnue | Décider : relancer ou désinvestir | Taux de variation du CA |
-| P4 | Explorer des leviers d'augmentation du panier moyen | Marketing | Panier stable = levier inexploité | Croître sans dépendre du seul volume | Panier moyen |
+| P4 | Explorer des leviers d'augmentation du panier moyen | Marketing | Panier stable = levier inexploité | Augmenter le panier moyen au-delà de 133 R$ | Panier moyen |
