@@ -18,7 +18,7 @@ Les axes analysés :
 
 Lien vers le détail technique :
 
-* Le nettoyage des données (Python/pandas) est disponible dans ce [notebook](https://github.com/JMCharles-dev/charles.jordana/blob/main/Exploration_nettoyage.ipynb).
+* Le nettoyage des données (Python/pandas) est disponible dans ce [notebook](https://github.com/JMCharles-dev/charles.jordana/blob/main/nettoyage.ipynb).
 * Requêtes [SQL](https://github.com/JMCharles-dev/charles.jordana/blob/main/sql/requetes.sql).
 
 
@@ -100,4 +100,4 @@ Enjeu principal : la croissance historique venant du volume de commandes, les le
 * order_approved_at : 0,16% de nulls, jugés négligeables
 * Environ 180k R$ de CA sans catégorie identifiée (traduction manquante)
   
-Un audit complet de la qualité des données (complétude, valeurs manquantes, décisions) est disponible [ici](https://github.com/JMCharles-dev/charles.jordana/blob/main/Audit.csv).
+Un audit complet de la qualité des données (complétude, valeurs manquantes, décisions) est disponible [ici](https://github.com/JMCharles-dev/charles.jordana/blob/main/audit.csv).
