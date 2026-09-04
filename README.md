@@ -90,3 +90,15 @@ Enjeu principal : la croissance historique venant du volume de commandes, les le
 | P2 | Soutenir les catégories en croissance (health_beauty, watches_gifts) | Commerciale / Achats | Trajectoire ascendante en 2018 | Maintenir/accélérer leur trajectoire de croissance | CA mensuel par catégorie |
 | P3 | Investiguer le recul de computers et sports_leisure | Data / Achats | Déclin en 2018, cause inconnue | Décider : relancer ou désinvestir | Taux de variation du CA |
 | P4 | Explorer des leviers d'augmentation du panier moyen | Marketing | Panier stable = levier inexploité | Augmenter le panier moyen au-delà de 133 R$ | Panier moyen |
+
+
+## Hypothèses & limites
+
+* Complétude élevée sur les colonnes clés (order_id, customer_id, price : 100%)
+* Nulls attendus sur les dates de livraison (~3% des commandes non encore livrées au moment de l'extraction) — non problématique car l'analyse porte sur les commandes livrées
+* order_approved_at : 0,16% de nulls, jugés négligeables
+* Données 2016 exclues (volume marginal)
+* Environ 180k R$ de CA sans catégorie identifiée (traduction manquante)
+* Lien performance/richesse régionale : hypothèse à confirmer avec le PIB/habitant
+  
+Un audit complet de la qualité des données (complétude, valeurs manquantes, décisions) est disponible [ici](.
