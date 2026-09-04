@@ -156,31 +156,3 @@ JOIN `Olist.Items` AS i
 WHERE o.order_status = 'delivered'
 GROUP BY region, mois
 ORDER BY mois ASC;
-
-
--- =====================================================
--- Table de détail unique pour Tableau
--- Grain : une ligne = un article vendu
--- Toutes les dimensions (mois, région, catégorie) réunies
---   pour que les filtres agissent sur tout le dashboard
--- Aucun GROUP BY : Tableau fait les agrégations
--- =====================================================
-
-SELECT
-  i.order_id,
-  i.order_item_id,
-  o.order_purchase_timestamp                     AS date_commande,
-  FORMAT_DATE('%Y-%m', o.order_purchase_timestamp) AS mois,
-  c.customer_state                               AS region,
-  t.string_field_1                               AS categorie,
-  i.price                                        AS prix
-FROM `Olist.Orders` AS o
-JOIN `Olist.Items` AS i
-  ON o.order_id = i.order_id
-JOIN `Olist.Customers` AS c
-  ON o.customer_id = c.customer_id
-LEFT JOIN `Olist.Products` AS p
-  ON i.product_id = p.product_id
-LEFT JOIN `Olist.Translation` AS t
-  ON p.product_category_name = t.string_field_0
-WHERE o.order_status = 'delivered';
