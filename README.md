@@ -18,6 +18,7 @@ Les axes analysés :
 
 Lien vers le détail technique :
 Le nettoyage des données (Python/pandas) est disponible dans ce [notebook](./Exploration_nettoyage.ipynb).
+
 Requêtes [SQL](./sql/requetes.sql).
 
 
