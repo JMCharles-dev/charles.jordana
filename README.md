@@ -3,8 +3,9 @@ Analyse des ventes Olist
 
 ## Contexte & vue d'ensemble
 
-Olist est une marketplace brésilienne qui met en relation des vendeurs et des clients à travers le brésil. L'entreprise dispose d'un dataset de 100 000 commandes effectuées entre mi-2016 et mi-2018, réparties sur 9 tables. 
-Ce projet analyse ces données pour identifier les leviers de croissance du Chiffre d'Affaire afin d'ajuster les décisions commerciales.
+Olist est une marketplace brésilienne qui met en relation des vendeurs et des clients à travers le brésil. Le jeu de données étudié, publié par Olist sur Kaggle, rassemble environ 100 000 commandes effectuées entre mi-2016 et mi-2018, réparties sur 9 tables. 
+Ces données, anonymisées, permettent de suivre le cycle de vie d'une commande, du paiement à la livraison et à l'évaluation client.
+Cependant ce projet se concentre sur l'exploration des leviers de croissance possible du Chiffre d'Affaire afin d'ajuster les décisions commerciales.
 
 Décision : Sur quelles catégories de produits et quelles régions concentrer les efforts pour que le chiffre d'affaires continue à croître.
 
@@ -39,7 +40,7 @@ Enjeu principal : la croissance historique venant du volume de commandes, les le
 <img width="1200" height="861" alt="image" src="https://github.com/user-attachments/assets/b388af8b-73c1-4145-a302-6d16c08535df" />
 
 
-[Voir le dashboard interactif sur Tableau Public](https://public.tableau.com/views/AnalysedesventesOlist/AnalysedesventesOlist?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Voir le dashboard sur Tableau Public](https://public.tableau.com/views/AnalysedesventesOlist/AnalysedesventesOlist?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
@@ -76,3 +77,13 @@ Enjeu principal : la croissance historique venant du volume de commandes, les le
 - Les États de Bahia, Ceará et Pará (BA/CE/PA) ont une forte population mais un CA par habitant faible comparé à SP/RJ/DF : ils représentent potentiellement une part de marché sous-exploitée.
 - Les catégories consommées sont quasi identiques entre les régions performantes (SP/RJ/DF) et celles à potentiel (BA/CE/PA). Le levier de croissance se situe donc au niveau de la pénétration du marché, sans nécessité de modifier l'offre.
 - La répartition du CA entre régions reste stable sur toute la période avec une croissance géographiquement homogène ainsi aucune région ne se démarque. Cela suggère qu'aucun levier régional ciblé n'a encore été activé, laissant une marge d'action, notamment vers les États sous-exploités de Bahia, Ceará et Pará.
+
+
+## Recommandations
+
+| Priorité | Recommandation | Équipe | Justification | Impact attendu | Métrique à suivre |
+|----------|----------------|--------|---------------|----------------|-------------------|
+| P1 | Cibler l'acquisition dans les États sous-exploités (Bahia, Ceará, Pará) | Commerciale / Marketing | Forte population, faible CA/habitant | Rapprocher leur CA/habitant de celui de SP/RJ/DF | CA par habitant |
+| P2 | Soutenir les catégories en croissance (health_beauty, watches_gifts) | Commerciale / Achats | Trajectoire ascendante en 2018 | Accélérer le CA sur ces catégories | CA mensuel par catégorie |
+| P3 | Investiguer le recul de computers et sports_leisure | Data / Achats | Déclin en 2018, cause inconnue | Décider : relancer ou désinvestir | Taux de variation du CA |
+| P4 | Explorer des leviers d'augmentation du panier moyen | Marketing | Panier stable = levier inexploité | Croître sans dépendre du seul volume | Panier moyen |
