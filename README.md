@@ -17,7 +17,9 @@ Les axes analysés :
 
 
 Lien vers le détail technique :
+Le nettoyage des données (Python/pandas) est disponible dans ce [notebook](./Exploration_nettoyage.ipynb).
 Requêtes [SQL](./sql/requetes.sql).
+
 
 ## Structure des données
 Le jeu de données Olist est composé de 9 tables, l'analyse n'a nécessité que 6 d'entre elles. La table centrale Orders relie les commandes aux tables clients, paiements et articles. Chaque commande est associée à un ou plusieurs articles, eux-mêmes rattachés à un produit. Le client de chaque commande est localisé via son État.
