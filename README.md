@@ -84,12 +84,12 @@ Enjeu principal : la croissance historique venant du volume de commandes, les le
 
 ## Recommandations
 
-| Priorité | Recommandation | Équipe | Justification | Impact attendu | Métrique à suivre |
-|----------|----------------|--------|---------------|----------------|-------------------|
-| P1 | Cibler l'acquisition dans les États sous-exploités (Bahia, Ceará, Pará) | Commerciale / Marketing | Forte population, faible CA/habitant | Rapprocher leur CA/habitant de celui de SP/RJ/DF | CA par habitant |
-| P2 | Soutenir les catégories en croissance (health_beauty, watches_gifts) | Commerciale / Achats | Trajectoire ascendante en 2018 | Maintenir/accélérer leur trajectoire de croissance | CA mensuel par catégorie |
-| P3 | Investiguer le recul de computers et sports_leisure | Data / Achats | Déclin en 2018, cause inconnue | Décider : relancer ou désinvestir | Taux de variation du CA |
-| P4 | Explorer des leviers d'augmentation du panier moyen | Marketing | Panier stable = levier inexploité | Augmenter le panier moyen au-delà de 133 R$ | Panier moyen |
+| Priorité | Recommandation | Justification | Impact attendu | Métrique à suivre |
+|----------|----------------|---------------|----------------|-------------------|
+| P1 | Cibler l'acquisition dans les États sous-exploités (Bahia, Ceará, Pará) | Forte population, faible CA/habitant | Rapprocher leur CA/habitant de celui de SP/RJ/DF | CA par habitant |
+| P2 | Soutenir les catégories en croissance (health_beauty, watches_gifts) | Trajectoire ascendante en 2018 | Maintenir/accélérer leur trajectoire de croissance | CA mensuel par catégorie |
+| P3 | Investiguer le recul de computers et sports_leisure | Déclin en 2018, cause inconnue | Décider : relancer ou désinvestir | Taux de variation du CA |
+| P4 | Explorer des leviers d'augmentation du panier moyen | Panier stable = levier inexploité | Augmenter le panier moyen au-delà de 133 R$ | Panier moyen |
 
 
 ## Hypothèses & limites
